@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/songzhuozhu/svg)](https://tokscale.ai/u/songzhuozhu)
+
 <!--
 **songzhuozhu/songzhuozhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
