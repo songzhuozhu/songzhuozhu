@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## My Tokens Burned 👋
 [![Tokscale Stats](https://tokscale.ai/api/embed/songzhuozhu/svg)](https://tokscale.ai/u/songzhuozhu)
 
 <!--
