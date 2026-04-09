@@ -1,4 +1,4 @@
-## My Tokens Burned 👋
+## My Tokens Burned 🔥🔥🔥 ![Tokscale Tokens](https://tokscale.ai/api/badge/songzhuozhu/svg)
 [![Tokscale Stats](https://tokscale.ai/api/embed/songzhuozhu/svg)](https://tokscale.ai/u/songzhuozhu)
 
 <!--
